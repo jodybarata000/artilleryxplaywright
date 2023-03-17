@@ -11,7 +11,7 @@ npm install -g artillery artillery-engine-playwright
 Run it:
 
 ```sh
-artillery run hello-world.yml
+artillery run load.yml
 ```
 
 
